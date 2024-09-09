@@ -11,4 +11,14 @@ For example, if the input is:
 The output should be:
 {'odd': [3, 5], 'even': [2, 4, 6]}
 '''
+numbers = {'odd': [], 'even': []}
+while True:
+    user_number = int(input("enter a number: "))
+    if user_number == 0:
+        break
+    if user_number % 2 == 0:
+        numbers['even'].append(user_number)
+    else:
+        numbers['odd'].append(user_number)
 
+print(numbers)

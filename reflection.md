@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jamie Cole
+Sudent Email:  jcole05@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+With this assignment I was able to further familarize myself with the features of VS Code. Prior to this class I had not used VS Code so it has been an ongoing learning process. With this assignment in particular, the code testing, debugging, code running capabilities. I believe these features optimize the programming process, allowing me quickly identify errors and speed up my work flow. After this assignment, I find myself still unsure of all aspects of teh testing features, as code would still 'fail' even though i believed it to be fully debugged.
